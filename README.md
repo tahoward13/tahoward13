@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @tahoward13
-- 👀 I’m interested in a little bit of everything.
-- 🌱 I’m currently learning ... the basics ...
-- 💞️ I’m looking to collaborate on small or collaborative projects that teach me how to code.
-- 📫 How to reach me ... email ... taylorahoward95@gmail.com ...
+Engineer working in the automotive industry. BS in Mechanical Engineering, Minor in Biomedical Engineering @ Trine University. 
+
+Enjoyed basic coding via VBA and MatLab, wanting to learn more.
 
 <!---
 tahoward13/tahoward13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
